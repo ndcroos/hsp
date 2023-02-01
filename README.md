@@ -1,0 +1,2 @@
+# hsp
+Hierarchical space partitioning
